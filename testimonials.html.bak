@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Testimonials - CHAMP BEAGLES Bootstrap Template</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: CHAMP BEAGLES - v4.7.0
+  * Template URL: https://bootstrapmade.com/CHAMP BEAGLES-free-bootstrap-theme/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top d-flex align-items-center">
+    <div class="container d-flex align-items-center">
+
+<a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class=""></a>
+
+      <nav id="navbar" class="navbar">
+        <ul>
+		   
+		   <li><a href="about.html" class="active">ABOUT US</a></li>
+          <li><a href="available-puppies.html"class="active">AVAILABLE PUPPIES</a></li>
+          <li><a href="testimonials.html"class="active">TESTIMONIALS</a></li>
+          <li><a href="about-beagles.html"class="active">ABOUT BEAGLES</a></li>
+		  <li><a href="warranty.html"class="active">WARRANTY</a></li>
+		  <li><a href="shipping-policy.html"class="active">SHIPPING POLICY</a></li>
+	      <li><a href="contact.html" class="getstarted">CONTACT US</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+
+  <main id="main">
+
+<!-- End Header -->
+
+    <!-- ======= Breadcrumbs ======= -->
+    <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+
+        <div class="d-flex justify-content-between align-items-center">
+          <h1>TESTIMONIALS</h1>
+          
+        </div>
+
+      </div>
+    </section><!-- End Breadcrumbs -->
+
+    <!-- ======= Testimonials Section ======= -->
+    <section id="testimonials" class="testimonials">
+      <div class="container">
+
+        <div class="row">
+
+          <div class="col-lg-6">
+            <div class="testimonial-item">
+              <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+              <h3>Paris Christy</h3>
+              <p>
+                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                My dog is beautiful! Lover her so much. I wish the dog had arrived sooner, but it seems to depend on the breeder. worth every penny. I would recommend Friendly Beagles if you are willing to spend the money Great communication.
+                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+              </p>
+            </div>
+          </div>
+
+          <div class="col-lg-6">
+            <div class="testimonial-item mt-4 mt-lg-0">
+              <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+              <h3>Floyd Larisa</h3>
+              <p>
+                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+               Rock Beagle was great to work with. They helped me find my perfect puppy then sent me pictures until she arrived happy and healthy at my door. 
+               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+              </p>
+            </div>
+          </div>
+
+          <div class="col-lg-6">
+            <div class="testimonial-item mt-4">
+              <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+              <h3>Andy Gallucci</h3>
+              <p>
+                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                We were extremely pleased with our experience. We loved the updates on our puppy and puppy breeders were responsive, helpful and easy to reach. We couldn’t be happier with our puppy and appreciate the wonderful service. 
+                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+              </p>
+            </div>
+          </div>
+
+          <div class="col-lg-6">
+            <div class="testimonial-item mt-4">
+              <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+              <h3>Jennifer Ally</h3>
+              <p>
+                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                Hi, Thought I would send you some new pictures of our little guy and girl. They are such wonderful additions to our family. Trista and Pearl are having a great time in college. I am so glad Trista has her to keep her company. They both have adjusted well .
+                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+              </p>
+            </div>
+          </div>
+
+          <div class="col-lg-6">
+            <div class="testimonial-item mt-4">
+              <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+              <h3>Ganier W</h3>
+              <p>
+                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+Rock Beagles is an AMAZING and professional breeder. They are  responsive and knowledgeable their puppies. They go above and beyond to ensure that her puppies go to great homes. From start to finish they made the process of adopting our Beagle stress free. Thank you Rock Beagle
+                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+              </p>
+            </div>
+          </div>
+                 </div>
+
+      </div>
+    </section><!-- End Testimonials Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6">
+            <div class="footer-info">
+              <h3>CHAMP BEAGLES</h3>
+              				<a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>
+
+                <strong>Phone:</strong> 📞 : (469) 609-9982<br>
+              </p>
+              <div class="social-links mt-3">
+                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-6 footer-links">
+            <h4>USEFULL LINK</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="index.html">HOME</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="about.html">ABOUT US</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="testimonials.html">TESTIMONIALS</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="about-beagles.html">ABOUT BEAGLES</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>CHAMP BEAGLES SERVICES</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="available-puppies.html">AVAILABLE PUPPIES</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="shipping-policy.html">SHIPPING POLICY</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="warranty.html">WARRANTY</a></li>
+			  <li><i class="bx bx-chevron-right"></i> <a href="privacy-policy.html">PRIVACY POLICY</a></li>
+
+             </ul>
+          </div>
+
+          <div class="col-lg-4 col-md-6 footer-newsletter">
+            <h4>CHAMP BEAGLES NEWSLETTER</h4>
+            <p>Our breeding programs are safe and secure. Our puppies are vaccinated and healthy.</p>
+            <form action="" method="post">
+              <input type="email" name="email"><input type="submit" value="Subscribe">
+            </form>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span>CHAMP BEAGLES</span></strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+                Designed & Developed by <a href="https://www.thewebflying.com/">WebFLying Technologies</a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>

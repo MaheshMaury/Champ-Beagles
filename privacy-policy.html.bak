@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Contact - CHAMP BEAGLES Bootstrap Template</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: CHAMP BEAGLES - v4.7.0
+  * Template URL: https://bootstrapmade.com/CHAMP BEAGLES-free-bootstrap-theme/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top d-flex align-items-center">
+    <div class="container d-flex align-items-center">
+
+<a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class=""></a>
+
+      <nav id="navbar" class="navbar">
+        <ul>
+		   
+		   <li><a href="about.html" class="active">ABOUT US</a></li>
+          <li><a href="available-puppies.html"class="active">AVAILABLE PUPPIES</a></li>
+          <li><a href="testimonials.html"class="active">TESTIMONIALS</a></li>
+          <li><a href="about-beagles.html"class="active">ABOUT BEAGLES</a></li>
+		  <li><a href="warranty.html"class="active">WARRANTY</a></li>
+		  <li><a href="shipping-policy.html"class="active">SHIPPING POLICY</a></li>
+	      <li><a href="contact.html" class="getstarted">CONTACT US</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+
+  <main id="main">
+
+
+    <!-- ======= Breadcrumbs ======= -->
+    <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+
+        <div class="d-flex justify-content-between align-items-center">
+          <h1>PRIVACY POLICY</h1>
+		  
+                  </div>
+
+      </div>
+    </section><!-- End Breadcrumbs -->
+	<br>
+<h1><center>Who we are</center></h1>
+
+<center><p><span style="color:red">Suggested text: </span>Our website address is: https://champbeagles.com/.</center></p>
+<h1><center>Comments</center></h1>
+
+<center><p><span style="color:red">Suggested text: </span>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.</center></p>
+<br>
+<p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p>
+<h1><center>Media</center></h1>
+
+<center><p><span style="color:red">Suggested text:</span> If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</center></p>
+<h1><center>Cookies</center></h1>
+<center><p><span style="color:red">Suggested text:</span> If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p>
+<br>
+<p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p>
+<br>
+
+<p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select "Remember Me", your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p>
+<br>
+<p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</center></p>
+<h1><center>Embedded content from other websites</center></h1>
+<p><span style="color:red">Suggested text:</span>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p>
+<br>
+<p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p>
+<h1><center>Who we share your data with</center></h1>
+<p><span style="color:red">Suggested text:</span> If you request a password reset, your IP address will be included in the reset email.</p>
+<h1><center>How long we retain your data</center></h1>
+<p><span style="color:red">Suggested text:</span>  If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p>
+<br>
+<p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p>
+<h1><center>What rights you have over your data</center></h1>
+<p><span style="color:red">Suggested text:</span>  If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p>
+<h1><center>Where we send your data</center></h1>
+<p><span style="color:red">Suggested text:</span>  Visitor comments may be checked through an automated spam detection service.</p>
+<br>
+  <!-- ======= Footer ======= -->
+   <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6">
+            <div class="footer-info">
+              <h3>CHAMP BEAGLES</h3>
+              				<a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>
+
+                <strong>Phone:</strong> 📞 : (469) 609-9982<br>
+              </p>
+              <div class="social-links mt-3">
+                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-6 footer-links">
+            <h4>USEFULL LINK</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="index.html">HOME</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="about.html">ABOUT US</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="testimonials.html">TESTIMONIALS</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="about-beagles.html">ABOUT BEAGLES</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>CHAMP BEAGLES SERVICES</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="available-puppies.html">AVAILABLE PUPPIES</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="shipping-policy.html">SHIPPING POLICY</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="warranty.html">WARRANTY</a></li>
+			  <li><i class="bx bx-chevron-right"></i> <a href="privacy-policy.html">PRIVACY POLICY</a></li>
+
+             </ul>
+          </div>
+
+          <div class="col-lg-4 col-md-6 footer-newsletter">
+            <h4>CHAMP BEAGLES NEWSLETTER</h4>
+            <p>Our breeding programs are safe and secure. Our puppies are vaccinated and healthy.</p>
+            <form action="" method="post">
+              <input type="email" name="email"><input type="submit" value="Subscribe">
+            </form>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span>CHAMP BEAGLES</span></strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+                Designed & Developed by <a href="https://www.thewebflying.com/">WebFLying Technologies</a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
